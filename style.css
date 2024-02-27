@@ -1,0 +1,21 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+header {
+  text-align: center;
+}
+
+blockquote {
+  padding: 20px;
+  margin: 20px 0;
+  border-left: 4px solid blue; 
+}
+
+button {
+  padding: 10px 20px;
+  border: none;
+  background: blue;
+  color: white;
+  cursor: pointer;  
+}
